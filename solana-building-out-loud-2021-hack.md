@@ -18,9 +18,9 @@
 
 ##  Problem Statement
 
-In recent few years there have been surge [1] in DApps in DeFi (decentralized finance) space and it will continue to grow rapidly in upcoming years. 
+In recent few years there have been surge ([1]) in DApps in DeFi (decentralized finance) space and it will continue to grow rapidly in upcoming years. 
 On one hand this opens up huge opporunities for taders, investors and even software developers, on the other hand it raises concerns about money laundering, terrorism funancing etc to goverenment and regulatories.
-European commision proposed [2] to oblige companies (exchange, wallets etc) that facilitate transfers of cryptos to collect various personal data of senders and recipients. Inshort, the proposal talks about 
+European commision proposed ([2]) to oblige companies (exchange, wallets etc) that facilitate transfers of cryptos to collect various personal data of senders and recipients. Inshort, the proposal talks about 
 prohibiting *anonymous* crypto wallets. We should not be surprised other govt agencies of various contries following the same path. Wheter this is welcoming move for
 decentralised communites or not, that is a matter of discussion, since it clearly voilates one of the principles of blockchian which is *Anonymity* but if decentralised
 application has to 
